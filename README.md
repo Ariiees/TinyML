@@ -11,7 +11,7 @@
 
 【**Validation**】:File you can used to test our model once you download the C code your board.
 
-【**requirements.txt**】: The requirmented version you need to install.
+【**requirements.txt**】: The required version you need to install.
 
 ## How to run the code
 1. Connect your STM 32 using `usb2micro usb cable` to your computer and double-check the `port number` via the `Device Manager`.
