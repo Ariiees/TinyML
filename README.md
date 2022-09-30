@@ -28,5 +28,5 @@
 ## What's new about our model
 1. We use `train_validation_split` when we train the model
 2. We change loss function to `Focal Loss`
-3. We process the original data and cange 1 channel time data to 2 channel input data (time + frequence)
-4. We use static quantization in pytorch to quant final model
+3. We process the original data and cange 1 channel time data to `2 channel input data (time + frequence)`
+4. We use `static quantization` in pytorch to quant final model
