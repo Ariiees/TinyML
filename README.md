@@ -1,5 +1,8 @@
 # PENG TinyML Final
 
+## Data
+You can download data here: https://drive.google.com/drive/u/1/folders/1XXiJoPyWChSsvOFa0eVxZ4AdnfQh_lOA
+
 ## File Description
 【**Model_Training_Design_Repo**】: This file contains the 5 layer CNN model with focal loss using Pytorch frameworks. 
 
